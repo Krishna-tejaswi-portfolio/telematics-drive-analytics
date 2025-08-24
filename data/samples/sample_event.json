@@ -1,0 +1,12 @@
+{
+    "device_id": "veh-101",
+    "trip_id": "t-20250824-01",
+    "ts": "2025-08-24T06:00:00Z",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "speed": 48.2,
+    "rpm": 2100,
+    "coolant_temp": 88.0,
+    "fuel_level": 64.5,
+    "event_type": "telemetry"
+  }
